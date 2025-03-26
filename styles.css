@@ -111,6 +111,18 @@ h2 {
     gap: 16px;
 }
 
+/* Game */
+
+.canvas {
+  width: 720px;
+  height: 480px;
+  background-color: black;
+  background-image: url('/assets/images/background.png');
+  background-size: cover;
+  display: block;
+  z-index: 0;
+}
+
 /* Images */
 
 .logo {
